@@ -1,0 +1,3 @@
+C:/Users/Malwi/CLionProjects/Boxes_counting/cmake-build-debug/CMakeFiles/Boxes_counting.dir
+C:/Users/Malwi/CLionProjects/Boxes_counting/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Malwi/CLionProjects/Boxes_counting/cmake-build-debug/CMakeFiles/rebuild_cache.dir
